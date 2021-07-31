@@ -13,4 +13,4 @@ Languages and Tools:
 </code>
 
 ![AniReaver's github stats](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight)
-
+[![reaver.db](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=reaver.db&show_owner=true&theme=tokyonight)](https://www.npmjs.com/package/reaver.db)
