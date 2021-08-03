@@ -3,7 +3,7 @@
 Information:
 
 - 👨‍💻 I'm 14 years old
-- 👾 Discord Bot Developers And App Programmer
+- 👾 Discord Bot Developer And App Programmer
 
 Languages and Tools:
 
