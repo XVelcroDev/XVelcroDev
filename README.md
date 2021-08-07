@@ -14,4 +14,5 @@ Languages and Tools:
 <code><a target="_blank" rel="noopener noreferrer" href="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" style="max-width:100%;"></a>
 </code>
 
-![AniReaver's github stats](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight)
+[![AniReaver's github stats]](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight)
+[![Pyhton Bot Template]](https://github-readme-stats.vercel.app/api/pin/?username=ItsReaver&repo=Python-Bot-Template&show_owner=true&theme=tokyonight)]
