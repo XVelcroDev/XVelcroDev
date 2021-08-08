@@ -2,8 +2,9 @@
 
 Information:
 
-- 👨‍💻 I'm 14 years old
-- 👾 Discord Bot Developer And App Programmer
+- 👨‍💻 | I'm 14 years old
+- 👾 | Discord Bot Developer And App Programmer
+- 📚 | My Database [Click Here](https://npmjs.com/package/reaver.db)
 
 Languages and Tools:
 
