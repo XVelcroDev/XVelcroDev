@@ -19,5 +19,5 @@
 
 <h3 align="center">NPM Packages</h3>
 <p align="center">
-  <h3>![reaver.db](https://npmjs.com/package/reaver.db)</h3>
+  <h3>[![reaver.db](https://npmjs.com/package/reaver.db)]</h3>
 </p>
