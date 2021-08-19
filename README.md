@@ -12,4 +12,6 @@
 
 
 <h3 align="center">Github Stats</h3>
-![ItsReaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight" alt="itsreaver">
+</p>
