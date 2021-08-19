@@ -16,3 +16,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=synthwave" alt="itsreaver">
 </p>
+
+<h3 align="center">NPM Packages</h3>
+<p align="center">
+  <h3>![reaver.db](https://npmjs.com/package/reaver.db)</h3>
+</p>
