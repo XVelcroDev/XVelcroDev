@@ -19,5 +19,6 @@
 
 <h3 align="center">NPM Packages</h3>
 <p align="center">
-  <h3 align="center">- 👨‍💻 reaver.db | https://npmjs.com/package/reaver.db</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsReaver&repo=reaver.db&show_owner=true&theme=synthwave" alt="r.db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsReaver&repo=Basic-Bot&show_owner=true&theme=synthwave" alt="b-bot">
 </p>
