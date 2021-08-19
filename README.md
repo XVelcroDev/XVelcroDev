@@ -12,4 +12,4 @@
 -------------------------------------------------------
 
 <h3 align="center">Github Stats</h3>
-[ItsReaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=radical)
+![ItsReaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=tokyonight)
