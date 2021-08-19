@@ -1,1 +1,5 @@
-<h1 style="text-align: center;"> 👋 Welcome To My Profile 👋 </h1
+<p align=center>
+  <i>
+    👋 Welcome To My Profile 👋
+  </i>
+</p>
