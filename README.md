@@ -11,10 +11,14 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReaver&layout=compact&theme=synthwave" alt="itsreaver">
+  <a href="https://github.com/ItsReaver/Basic-Bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReaver&layout=compact&theme=synthwave" alt="itsreaver">
+  </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=synthwave" alt="itsreaver">
+  <a href="https://github.com/ItsReaver/reaver.db">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsReaver&show_icons=true&theme=synthwave" alt="itsreaver">
+  </a>
 </p>
 
 <h3 align="center">Github Repo's</h3>
