@@ -19,10 +19,10 @@
 
 <h3 align="center">Github Repo's</h3>
 <p align="center">
-  <a>
+  <a href="https://github.com/ItsReaver/reaver.db">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsReaver&repo=reaver.db&show_owner=true&theme=synthwave" alt="r.db">
   </a>
-  <a href="https://github.com/ItsReaver/reaver.db">
+  <a href="https://github.com/ItsReaver/Basic-Bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsReaver&repo=Basic-Bot&show_owner=true&theme=synthwave" alt="b-bot">
   </a>
 </p>
