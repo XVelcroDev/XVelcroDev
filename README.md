@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Programming Languages & Tools</h3>
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html" width=40 height=40> <img src="https://pbs.twimg.com/media/EDoWJbUXYAArclg.png" alt="npm" width=40 height=40> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html" width=40 height=40> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pugjs" width=40 height=40> </p>
 
 
 
