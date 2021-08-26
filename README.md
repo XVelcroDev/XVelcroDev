@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Programming Languages & Tools</h3>
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html" width=40 height=40> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pugjs" width=40 height=40> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c#" width=40 height=40> <img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/160px-React-icon.svg.png" alt="reactjs" width=35 height=40> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html" width=40 height=40> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pugjs" width=40 height=40> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c#" width=40 height=40> <img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/160px-React-icon.svg.png" alt="reactjs" width=40 height=40> </p>
 
 
 
