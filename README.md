@@ -2,12 +2,12 @@
   
 ```json
 {
-  "name": "Reaver",
-  "gender": "Male",
-  "age": "14",
-  "info": {
-    "langauges": ["Javascript", "Python", "Rust", "Dart", "Go", "Typescript", "Deno"],
-    "frameworks": ["npm", "yarn"],
+  "Name": "XVelcro",
+  "Gender": "Male",
+  "Age": "17",
+  "Info": {
+    "Langauges i know": ["Javascript", "Typescript", "Python"],
+    "Languages im starting to learn": ["Golang", "Rust", "Lua", "Haxe"],
   }
 }
 ```
